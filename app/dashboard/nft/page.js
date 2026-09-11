@@ -23,7 +23,6 @@ import { IoClose } from "react-icons/io5";
 import { RiNftFill } from "react-icons/ri";
 import { MdDescription, MdVerified } from "react-icons/md";
 import { FaAngleDown, FaAngleUp } from "react-icons/fa";
-ASTIOX
 
 const nftData = [
   {
