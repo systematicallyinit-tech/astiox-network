@@ -97,7 +97,7 @@ export default function RootLayout({ children }) {
         <Providers>
           {children}
         </Providers>
-        
+        <LiveChat />
       </body>
     </html>
   );
