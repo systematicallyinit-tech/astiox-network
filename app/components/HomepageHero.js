@@ -1649,24 +1649,6 @@ export const HomepageHero = ({ page }) => {
         sm:text-4xl
       "
     />
-
-    {/* Online indicator */}
-    <span
-      className="
-        absolute
-        right-0
-        top-0
-        w-4
-        h-4
-        rounded-full
-        bg-white
-        flex
-        items-center
-        justify-center
-      "
-    >
-      <span className="w-2.5 h-2.5 rounded-full bg-[#25D366]" />
-    </span>
   </div>
 
   {/* Desktop tooltip */}
