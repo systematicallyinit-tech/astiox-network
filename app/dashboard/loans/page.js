@@ -20,7 +20,7 @@ import { TbTriangleInvertedFilled } from "react-icons/tb";
 import { IoIosInformationCircleOutline } from "react-icons/io";
 import LoadingScreen from "./loading";
 
-const plans = [``
+const plans = [
     {
         plan_name: process.env.NEXT_PUBLIC_PLAN_C_NAME,
         plan_profit: process.env.NEXT_PUBLIC_PLAN_C_DAILY_PROFIT,
