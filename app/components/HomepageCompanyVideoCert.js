@@ -41,7 +41,7 @@ export const HomepageCompanyVideoCert = () => {
                               className="absolute inset-0 h-full w-full object-cover"
                               aria-hidden="true"
                             >
-                              <source src="https://jervd7yzld.ufs.sh/f/tLWByCb5iMVayJ3w27BxvG10E7e6jVad29Jn3yXPqwLTtoHb" type="video/mp4" />
+                              <source src="https://jervd7yzld.ufs.sh/f/tLWByCb5iMVaE5b4ODchDVBJHa2wuynk9M83dAZEYKqf10GO" type="video/mp4" />
                             </video>
 
                           </section>
@@ -78,7 +78,7 @@ export const HomepageCompanyVideoCert = () => {
                               className="absolute inset-0 h-96 w-full object-cover"
                               aria-hidden="true"
                             >
-                              <source src="https://jervd7yzld.ufs.sh/f/tLWByCb5iMVayJ3w27BxvG10E7e6jVad29Jn3yXPqwLTtoHb" type="video/mp4" />
+                              <source src="https://jervd7yzld.ufs.sh/f/tLWByCb5iMVaE5b4ODchDVBJHa2wuynk9M83dAZEYKqf10GO" type="video/mp4" />
                             </video>
  
                           </section>

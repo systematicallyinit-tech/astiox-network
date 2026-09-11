@@ -256,25 +256,25 @@ export async function POST(req) {
 
 <p style="margin:0 0 10px;">
   <a
-    href="mailto:support@metagram-network.com"
+    href="mailto:support@astiox-network.com"
     style="
       color:#0500ff;
       text-decoration:none;
     "
   >
-    support@metagram-network.com
+    support@astiox-network.com
   </a>
 </p>
 
 <p style="margin:0 0 20px;">
   <a
-    href="https://metagram-network.vercel.app"
+    href="https://astiox-network.vercel.app"
     style="
       color:#0500ff;
       text-decoration:none;
     "
   >
-    metagram-network.vercel.app
+    astiox-network.vercel.app
   </a>
 </p>
 
@@ -285,7 +285,7 @@ export async function POST(req) {
     line-height:22px;
   "
 >
-  © {{currentYear}} Metagram Network Inc
+  © {{currentYear}} Astiox Network Inc
   <br>
   Secure Crypto Investment Platform
   <br><br>
