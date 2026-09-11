@@ -1473,7 +1473,7 @@ export const HomepageHero = ({ page }) => {
 
       {/* Floating WhatsApp Button */}
 <a
-  href="https://wa.me/233XXXXXXXXX?text=Hello%20Astiox%20Network%2C%20I%20would%20like%20to%20speak%20with%20your%20support%20team."
+  href="https://wa.me/15304634558?text=Hello%20Astiox%20Network%2C%20I%20would%20like%20to%20speak%20with%20your%20support%20team."
   target="_blank"
   rel="noopener noreferrer"
   aria-label="Chat with us on WhatsApp"

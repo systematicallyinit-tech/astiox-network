@@ -133,7 +133,7 @@ export default function Page() {
                                 </span>
                                 <p className='text-xs dark:text-white'>Telegram</p>
                             </a>
-                            <a href="https://wa.me/233XXXXXXXXX?text=Hello%20Astiox%20Network%2C%20I%20would%20like%20to%20speak%20with%20your%20support%20team."
+                            <a href="https://wa.me/15304634558?text=Hello%20Astiox%20Network%2C%20I%20would%20like%20to%20speak%20with%20your%20support%20team."
   target="_blank" className="flex gap-1 flex-col justify-center items-center">
                                 <span className="rounded-xl bg-[#f4f4f7] dark:bg-isoDark2 dark:text-isoColor2 text-black p-3 ">
                                     <FaWhatsapp className='w-5 h-5' />
