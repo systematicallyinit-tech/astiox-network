@@ -1595,7 +1595,7 @@ export const HomepageHero = ({ page }) => {
   className="
     fixed
     right-5
-    top-1/2
+    top-1/3
     -translate-y-1/2
     z-[9999]
     group
@@ -1609,7 +1609,6 @@ export const HomepageHero = ({ page }) => {
       flex
       items-center
       justify-center
-      pt-7
       w-14
       h-14
       sm:w-16

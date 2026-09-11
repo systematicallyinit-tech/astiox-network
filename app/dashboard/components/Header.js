@@ -373,7 +373,7 @@ export const Header = ({tab}) => {
     fixed
     right-5
     top-1/2
-    -translate-y-1/2
+    -translate-y-1/3
     z-[9999]
     group
     flex
@@ -388,7 +388,6 @@ export const Header = ({tab}) => {
       justify-center
       w-14
       h-14
-      pt-7
       sm:w-16
       sm:h-16
       rounded-full
