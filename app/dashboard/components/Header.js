@@ -88,7 +88,7 @@ export const Header = ({tab}) => {
                         <Image
                         src="/icons/mainLogo2.png"
                         alt="Astiox_logo"
-                        className="-ml-6 md:-ml-0 md:w-10"
+                        className="-ml-6 md:-ml-0 md:w-70"
                         width={150}
                         height={0}
                         />
