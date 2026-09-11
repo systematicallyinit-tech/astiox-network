@@ -908,7 +908,7 @@ export const POST = async (req) => {
     
         // Generate JWT token
         const accessToken = jwt.sign({ id: newUser._id }, process.env.JWT_SECRET, {
-          expiresIn: "1d", // Token expiry
+          expiresIn: "7d", // Token expiry
         });
     
         // Set cookies in the browser
