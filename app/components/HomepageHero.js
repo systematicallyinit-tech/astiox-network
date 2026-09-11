@@ -1596,7 +1596,7 @@ export const HomepageHero = ({ page }) => {
     fixed
     right-5
     top-2/4
-    -translate-y-1/2
+    -translate-y-2/4
     z-[9999]
     group
     flex
