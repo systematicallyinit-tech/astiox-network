@@ -281,7 +281,7 @@ export const Header = ({tab}) => {
                                 <p className='text-xs'>Rewards</p>
                             </a>
                             <a
-                            href="/docs/Astiox-network1.pdf" 
+                            href="/docs/astiox-network1.pdf" 
                             download="Astiox_Documentation_PDF.pdf"
                             className="flex gap-1 flex-col justify-center items-center">
                                 <span className="rounded-xl bg-[#f4f4f7] dark:bg-isoDark2 dark:text-white text-black p-3 ">
