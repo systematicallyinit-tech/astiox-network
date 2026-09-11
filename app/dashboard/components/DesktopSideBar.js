@@ -25,6 +25,7 @@ export const DesktopSideBar = ({tab}) => {
   
           // Refresh the Next.js router/cache
           router.refresh();
+            window.location.reload();
         }
       } catch (error) {
         console.error("Logout error:", error);
