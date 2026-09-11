@@ -137,7 +137,7 @@ export const Header = ({tab}) => {
             >
                 {/* <PiHeadsetLight className='h-6 w-6 text-black hover:text-isoColor1' /> */}
                 
-                <a href="https://tawk.to/chat/6a39604e65eba51d440bfb87/1jro20dkk" className='relative'>
+                <a href="https://tawk.to/chat/6aa41dad9145653445ddbd7a/1k28h7s0l?layout=modern" className='relative'>
                     <PiHeadsetLight className='h-6 w-6' />
                 </a>
                 <div className='relative'>
@@ -161,7 +161,7 @@ export const Header = ({tab}) => {
                   <div>
                     <MdOutlineLanguage className='w-6 h-6' />
                   </div>
-                  <a href="https://tawk.to/chat/6a39604e65eba51d440bfb87/1jro20dkk">
+                  <a href="https://tawk.to/chat/6aa41dad9145653445ddbd7a/1k28h7s0l?layout=modern">
                     <BiMessageDetail className='w-6 h-6' />
                   </a>
                   <ThemeToggle />
@@ -191,7 +191,7 @@ export const Header = ({tab}) => {
                 <div 
                 className='flex md:hidden space-x-4 items-center'
                 >
-                    <a href="https://tawk.to/chat/6a39604e65eba51d440bfb87/1jro20dkk">
+                    <a href="https://tawk.to/chat/6aa41dad9145653445ddbd7a/1k28h7s0l?layout=modern">
                         <PiHeadsetLight className='h-6 w-6 hover:text-isoColor1' />
                     </a>
                     <ThemeToggle />
@@ -371,7 +371,7 @@ export const Header = ({tab}) => {
   aria-label="Chat with us on WhatsApp"
   className="
     fixed
-    right-4
+    right-5
     top-1/2
     -translate-y-1/2
     z-[9999]
@@ -388,6 +388,7 @@ export const Header = ({tab}) => {
       justify-center
       w-14
       h-14
+      pt-7
       sm:w-16
       sm:h-16
       rounded-full

@@ -70,7 +70,7 @@ export default function CryptoTicker() {
           x: ["0%", "-50%"],
         }}
         transition={{
-          duration: 200,
+          duration: 60,
           repeat: Infinity,
           ease: "linear",
         }}

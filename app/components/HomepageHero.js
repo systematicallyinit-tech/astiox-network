@@ -1594,7 +1594,7 @@ export const HomepageHero = ({ page }) => {
   aria-label="Chat with us on WhatsApp"
   className="
     fixed
-    right-4
+    right-5
     top-1/2
     -translate-y-1/2
     z-[9999]
@@ -1609,6 +1609,7 @@ export const HomepageHero = ({ page }) => {
       flex
       items-center
       justify-center
+      pt-7
       w-14
       h-14
       sm:w-16
