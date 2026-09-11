@@ -77,7 +77,7 @@ export const Header = ({tab}) => {
                 <div className='flex'>
                     <a href="/" className='block dark:hidden'>
                         <Image
-                        src="/icons/logoMain.png"
+                        src="/icons/logoMain2.png"
                         alt="Astiox_logo"
                         className="-ml-6 md:-ml-0 md:w-70"
                         width={150}
