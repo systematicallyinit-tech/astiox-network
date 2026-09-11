@@ -17,6 +17,7 @@ import { GrTransaction } from 'react-icons/gr';
 import { MdOutlineLanguage } from 'react-icons/md';
 import { FaRegFilePdf } from "react-icons/fa6";
 import { BiMessageDetail } from 'react-icons/bi';
+import { FaWhatsapp } from "react-icons/fa";
 import { RiLogoutCircleLine, RiMoneyDollarCircleLine, RiNftLine } from 'react-icons/ri';
 import { TbAirBalloon } from 'react-icons/tb';
 import { FaCircleUser } from 'react-icons/fa6';
@@ -361,6 +362,120 @@ export const Header = ({tab}) => {
                                     </div>
                                 )}
         </div>
+
+        {/* Floating WhatsApp Button */}
+<a
+  href="https://wa.me/233XXXXXXXXX?text=Hello%20Astiox%20Network%2C%20I%20would%20like%20to%20speak%20with%20your%20support%20team."
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="Chat with us on WhatsApp"
+  className="
+    fixed
+    right-4
+    top-1/2
+    -translate-y-1/2
+    z-[9999]
+    group
+    flex
+    items-center
+  "
+>
+  <div
+    className="
+      relative
+      flex
+      items-center
+      justify-center
+      w-14
+      h-14
+      sm:w-16
+      sm:h-16
+      rounded-full
+      bg-[#25D366]
+      text-white
+      shadow-[0_10px_35px_rgba(37,211,102,0.35)]
+      border-4
+      border-white
+      dark:border-isoDark
+      transition-all
+      duration-300
+      ease-out
+      hover:scale-110
+      hover:shadow-[0_15px_45px_rgba(37,211,102,0.5)]
+      active:scale-95
+    "
+  >
+    {/* Pulsing ring */}
+    <span
+      className="
+        absolute
+        inset-0
+        rounded-full
+        bg-[#25D366]
+        animate-ping
+        opacity-20
+      "
+    />
+
+    {/* WhatsApp icon */}
+    <FaWhatsapp
+      className="
+        relative
+        z-10
+        text-3xl
+        sm:text-4xl
+      "
+    />
+
+    {/* Online indicator */}
+    <span
+      className="
+        absolute
+        right-0
+        top-0
+        w-4
+        h-4
+        rounded-full
+        bg-white
+        flex
+        items-center
+        justify-center
+      "
+    >
+      <span className="w-2.5 h-2.5 rounded-full bg-[#25D366]" />
+    </span>
+  </div>
+
+  {/* Desktop tooltip */}
+  <span
+    className="
+      hidden
+      sm:block
+      absolute
+      right-20
+      whitespace-nowrap
+      rounded-xl
+      bg-isoDark
+      dark:bg-white
+      text-white
+      dark:text-isoDark
+      px-4
+      py-2
+      text-sm
+      font-medium
+      shadow-xl
+      opacity-0
+      translate-x-3
+      pointer-events-none
+      group-hover:opacity-100
+      group-hover:translate-x-0
+      transition-all
+      duration-300
+    "
+  >
+    Chat with us on WhatsApp
+  </span>
+</a>
         
       </header>
     );
