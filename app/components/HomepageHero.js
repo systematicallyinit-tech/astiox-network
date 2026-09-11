@@ -44,7 +44,7 @@ export const HomepageHero = ({ page }) => {
 
             <nav className="flex p-3 items-center md:py-4 justify-between w-full">
 
-              <div>
+              <div className="flex items-center space-x-1">
                 <a href="/">
                   <Image
                     src="/icons/logoMain2.png"
@@ -64,6 +64,29 @@ export const HomepageHero = ({ page }) => {
                     height={0}
                   />
                 </a>
+                <div>
+                 <span
+                    className="
+                      text-[18px]
+                      font-extrabold
+                      tracking-tight
+                      text-black
+                      dark:text-white
+                    "
+                  >
+                    Astiox
+                  </span>
+                  <span
+                    className="
+                      text-xs
+                      spacing-wide
+                      font-light
+                      dark:text-white
+                    "
+                  >
+                    Network
+                  </span>
+                </div>
               </div>
 
               <div className="hidden items-center md:flex space-x-8">
@@ -1203,7 +1226,7 @@ export const HomepageHero = ({ page }) => {
 
             <nav className="flex p-3 items-center md:py-4 justify-between w-full">
 
-              <div>
+              <div className="flex items-center space-x-1">
                 <a href="/">
                   <Image
                     src="/icons/logoMain2.png"
@@ -1223,6 +1246,29 @@ export const HomepageHero = ({ page }) => {
                     height={0}
                   />
                 </a>
+                <div>
+                 <span
+                    className="
+                      text-[18px]
+                      font-extrabold
+                      tracking-tight
+                      text-black
+                      dark:text-white
+                    "
+                  >
+                    Astiox
+                  </span>
+                  <span
+                    className="
+                      text-xs
+                      spacing-wide
+                      font-light
+                      dark:text-white
+                    "
+                  >
+                    Network
+                  </span>
+                </div>
               </div>
 
               <div className="hidden items-center md:flex space-x-8">
