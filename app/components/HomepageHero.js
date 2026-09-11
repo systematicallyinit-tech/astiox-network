@@ -1595,7 +1595,7 @@ export const HomepageHero = ({ page }) => {
   className="
     fixed
     right-5
-    top-2/4
+    bottom-20
     -translate-y-2/4
     z-[9999]
     group
