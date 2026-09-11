@@ -137,7 +137,7 @@ export const Header = ({tab}) => {
             >
                 {/* <PiHeadsetLight className='h-6 w-6 text-black hover:text-isoColor1' /> */}
                 
-                <a href="https://tawk.to/chat/6aa41dad9145653445ddbd7a/1k28h7s0l?layout=modern" className='relative'>
+                <a href="https://tawk.to/chat/6aa41dad9145653445ddbd7a/1k28h7s0l" className='relative'>
                     <PiHeadsetLight className='h-6 w-6' />
                 </a>
                 <div className='relative'>
@@ -161,7 +161,7 @@ export const Header = ({tab}) => {
                   <div>
                     <MdOutlineLanguage className='w-6 h-6' />
                   </div>
-                  <a href="https://tawk.to/chat/6aa41dad9145653445ddbd7a/1k28h7s0l?layout=modern">
+                  <a href="https://tawk.to/chat/6aa41dad9145653445ddbd7a/1k28h7s0l">
                     <BiMessageDetail className='w-6 h-6' />
                   </a>
                   <ThemeToggle />
@@ -191,7 +191,7 @@ export const Header = ({tab}) => {
                 <div 
                 className='flex md:hidden space-x-4 items-center'
                 >
-                    <a href="https://tawk.to/chat/6aa41dad9145653445ddbd7a/1k28h7s0l?layout=modern">
+                    <a href="https://tawk.to/chat/6aa41dad9145653445ddbd7a/1k28h7s0l">
                         <PiHeadsetLight className='h-6 w-6 hover:text-isoColor1' />
                     </a>
                     <ThemeToggle />
@@ -372,8 +372,8 @@ export const Header = ({tab}) => {
   className="
     fixed
     right-5
-    top-1/2
-    -translate-y-1/3
+    top-2/4
+    -translate-y-1/2
     z-[9999]
     group
     flex
