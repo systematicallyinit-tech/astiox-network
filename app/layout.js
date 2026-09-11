@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Top Platform to Invest in Cryptocurrencies | Astiox Network Inc.",
+  title: "Web3 Digital Platform to Invest in Cryptocurrencies | Astiox Network Inc.",
   description: "Buy, Sell & Trade bitcoin and alt coins on Astiox Network",
   keywords: "bitcoin, cryptocurrency, trading, mining, digital currency",
   authors: [{ name: "Astiox Network Inc", url: "https://astiox.network.vercel.app" }],
