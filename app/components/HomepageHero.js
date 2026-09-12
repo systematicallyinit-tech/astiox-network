@@ -282,7 +282,7 @@ export const HomepageHero = ({ page }) => {
                 </div>
 
                 <h1 className="flex flex-col text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold tracking-[-0.04em] text-black dark:text-white leading-[1.05]">
-                  <span>Modern crypto assets.</span>
+                  <span>More crypto assets.</span>
                   <span className="text-isoColor1 dark:text-isoColor2">
                     Reputable Web3 Earnings.
                   </span>
